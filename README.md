@@ -7,8 +7,7 @@
 * [The problem with NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) - 2022-01-21 - by Dan Olson (Documentary) 📺 [👉 Highly recommended 👈]
   * [Three things Web3 should fix in 2022](https://www.theverge.com/2022/1/28/22906010/web3-nft-internet-history-video-platformer) a response to The Problem with NFTs - 28 Jan 2022
 * Stephen Diehl series - https://www.stephendiehl.com/blog.html
-  * [The Case Against Crypto](https://www.stephendiehl.com/blog/against-crypto.html) - December 31, 2021
-  - [Blockchainism](https://www.stephendiehl.com/blog/blockchainism.html) - December 11, 2021
+
   - [Web3 is Bullshit](https://www.stephendiehl.com/blog/web3-bullshit.html) - December 4, 2021
   - [The Internet's Casino Boats](https://www.stephendiehl.com/blog/casino-boats.html) - December 1, 2021
   - [The Token Disconnect](https://www.stephendiehl.com/blog/disconnect.html) - November 27, 2021
